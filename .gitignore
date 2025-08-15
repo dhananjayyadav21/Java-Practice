@@ -1,0 +1,11 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml/
+
+# Ignore compiled output
+out/
+!**/src/test/**/out/
+!**/src/main/**/out/
+
+
+

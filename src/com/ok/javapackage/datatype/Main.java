@@ -10,10 +10,16 @@ public class Main {
         float f= 1452.25f;
         double e= 14556.2;
 
-
         boolean isAge = true;
 
         System.out.println("isAge:"+isAge);
         System.out.println(a + b + c + d + e + f  );
+
+//        int [] arr = new int [5];
+//        arr[0]=a;
+//        arr[1]=b;
+//        arr[2]=c;
+
+//        System.out.println( let);
     }
 }

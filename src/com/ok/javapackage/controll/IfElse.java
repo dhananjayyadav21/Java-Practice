@@ -3,7 +3,7 @@ package com.ok.javapackage.controll;
 import java.util.Scanner;
 
 public class IfElse {
-    public static  void  main(String args[])
+    public static  void  main(String [] args)
     {
         System.out.println("Enter You Day No :");
         Scanner sc = new Scanner(System.in);

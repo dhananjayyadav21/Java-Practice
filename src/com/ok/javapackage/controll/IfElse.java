@@ -64,5 +64,18 @@ public class IfElse {
 //            System.out.print("The tax on your " + sall + " is : " + tax);
 //        }
 
+//       4) find out the type of url
+         System.out.println("Enter Your Url :");
+         String url = sc.next();
+         if(url.contains(".com")){
+              System.out.println("commercial website");
+         } else if (url.contains(".org")) {
+             System.out.println("organization website");
+         } else if (url.contains(".in")) {
+             System.out.println("indian website");
+         }else {
+             System.out.println("This is not valid");
+         }
+
     }
 }

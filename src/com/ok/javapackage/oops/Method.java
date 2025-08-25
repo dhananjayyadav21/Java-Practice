@@ -6,6 +6,8 @@ public class Method {
         pattern(3);
         int sum = sumOfNatural(10);
         System.out.println(sum);
+
+
     }
 
     public static void multiplicationTable(int a) {
